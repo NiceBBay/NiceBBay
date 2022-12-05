@@ -1,4 +1,4 @@
-h1 align="center">Siemanko 👋, Jestem 💜 NiceBby 💜</h1>
+<h1 align="center">Siemanko 👋, Jestem 💜 NiceBby 💜</h1>
 <h3 align="center">💜 Zwykły człowiek z uśmiechem ;D 💜</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicebbay&label=Profile%20views&color=0e75b6&style=flat" alt="nicebbay" /> </p>
