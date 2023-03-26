@@ -9,7 +9,7 @@
 
 <h3 align="left">Dzień doobry!</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/dripeq 웃" target="blank"><img align="center" src="https://www.youtube.com/channel/UCHlYsA0xNtprrBQ8qjFVsJg" alt="dripeq 웃" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dripeq 웃" target="blank"><img align="center" src="https://www.youtube.com/channel/UCHlYsA0xNtprrBQ8qjFVsJg" alt="niemcus ツ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
